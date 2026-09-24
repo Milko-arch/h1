@@ -1,0 +1,8 @@
+{
+  "name": "Remix Footprints - US History Adventure",
+  "description": "Super fun Duolingo-style learning adventure on the US Civil War and Reconstruction with voice, streaks, quiz and rewards for kids.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
